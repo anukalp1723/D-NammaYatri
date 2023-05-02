@@ -122,7 +122,7 @@ git push origin my-feature-branch
 
 1. [Rithik Raj Pandey](https://github.com/rithikrajyt/)
 2. [Anukalp Jain](https://github.com/anukalp1723/)
-3. [Karishma Khemnani]()
+3. [Karishma Khemnani](https://github.com/karishma012/)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
